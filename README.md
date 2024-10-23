@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]
+👋 Hi, I'm Nick Samsel
 Data Scientist | Finance & Business Information Analytics Background | Passionate about Machine Learning, Deep Learning, and Data-Driven Insights
 
 I have obtained my Master of Data Science from Regis University in August 2024. With a strong foundation in finance, business information analytics, and hands-on experience in machine learning and data visualization, I am passionate about leveraging data to create meaningful insights and solutions.
