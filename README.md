@@ -16,6 +16,7 @@ Major: Finance & Business Information Analytics
 GPA: 3.0/4.0
 Honors: Dean’s List (2017)
 Community Involvement: Rowing team member, Co-founder of Undergraduate Student Business Association
+
 💻 Experience
 Research Practicum
 Regis University | Remote
@@ -48,12 +49,14 @@ University of Denver | IT Help Center
 
 Managed Active Directory and permissions for 1,500 users, ensuring top-notch IT security.
 Provided daily hands-on IT support to over 50 users, streamlining escalations and improving support efficiency.
+
 🔧 Skills & Technologies
 Programming: Python, SQL, R, VBA
 Machine Learning/Deep Learning: TensorFlow, PyTorch, Keras, SciKitLearn, RAPIDS AI, CuML
 Data Visualization: Plotly, Power BI, Tableau, Google Sheets
 Tools: MongoDB, Jupyter Notebooks, Google App Suite, Microsoft Excel, Access
 Cloud/Computing: Edge Computing, Cloud Computing, Computer Hardware
+
 📊 Notable Projects
 Leukemia Blast Classifier
 Developed a deep learning classifier using TensorFlow and PyTorch to identify leukemia blasts with a 90% accuracy.
@@ -61,9 +64,11 @@ Implemented performance metrics and visualizations to evaluate model performance
 Scope 3 Emissions Prediction Model
 Designed a data pipeline with CUDA, CuML, and SciKitLearn to predict company scope 3 emissions, improving predictions by 85%.
 Visualized insights using Plotly, creating clear, interactive visualizations for stakeholders.
+
 🏅 Certifications & Achievements
 Certified in Microsoft Excel (2017), Word (2018), PowerPoint (2018), and Access (2020)
 Eagle Scout: Designed and built a 3D printing studio at Mounds Park Academy.
+
 🌱 Interests
 In addition to my data science pursuits, I am passionate about computer hardware, edge computing, and the future of IT. When I’m not coding or analyzing data, you can find me skiing in the mountains or exploring new biking trails.
 
