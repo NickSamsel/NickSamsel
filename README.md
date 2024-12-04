@@ -6,12 +6,11 @@ I have obtained my Master of Data Science from Regis University in August 2024. 
 📚 Education
 Master of Data Science | Regis University, Denver, CO
 August 2023 – August 2024
-
 GPA: 3.9/4.0
 Relevant Coursework: Deep Learning, Data Visualization, Machine Learning
+
 Bachelor of Science in Business Administration | University of Denver, Daniels College of Business, Denver, CO
 2017 – 2021
-
 Major: Finance & Business Information Analytics
 GPA: 3.0/4.0
 Honors: Dean’s List (2017)
