@@ -13,7 +13,7 @@ I blend a Master’s in Data Science with a deep background in Finance and Opera
 | **Data Engineering** | **dbt (Data Build Tool)**, **Docker (Containerization)**, ETL/ELT Pipelines |
 | **Languages** | Python (Pandas, NumPy), SQL (BigQuery/Postgres), **JavaScript (React)**, R, VBA |
 | **Machine Learning** | TensorFlow, PyTorch, SciKitLearn, XGBoost, RAPIDS AI |
-| **Analytics & BI** | **Looker**, Plotly, Power BI, Tableau, Google Looker Studio |
+| **Analytics & BI** | **Looker (LookML)**, Plotly, Power BI, Tableau, Google Looker Studio |
 
 ---
 
@@ -41,6 +41,13 @@ I blend a Master’s in Data Science with a deep background in Finance and Opera
 ---
 
 ## 💼 Professional Experience
+
+### **Junior Data Engineer** | Foundation Data
+*2024 – Present*
+* **Cloud Warehousing:** Scaling data operations within **Google BigQuery**, managing large datasets and optimizing query performance.
+* **Analytics Engineering:** Building and maintaining modular SQL transformation pipelines using **dbt**, ensuring data quality through rigorous testing and documentation.
+* **BI Development:** Developing complex data models and explores using **Looker (LookML)** to provide self-service analytics for stakeholders.
+* **DevOps:** Streamlining development workflows by containerizing analytics environments using **Docker**, ensuring consistency across local and cloud environments.
 
 ### **Data COE Co-Head & Operations Analyst** | Emissary
 *2021 – 2023*
